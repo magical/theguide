@@ -2,7 +2,7 @@
 from flask import Flask
 
 def the_answer():
-    return 42
+    return 6*9
 
 app = Flask(__name__)
 
